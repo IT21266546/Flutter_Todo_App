@@ -28,11 +28,11 @@ Follow these steps to run the Todo App on your local machine:
    ```bash
    git clone https://github.com/your-username/todo_app.git
 
-# 2. Navigate to the project directory:  
+ 2. Navigate to the project directory:  
      [cd todo_app] (cd todo_app)
-# 3. Install dependencies: 
+ 3. Install dependencies: 
      (flutter pub get)
-# 4. Run the app: 
+ 4. Run the app: 
      (flutter run)
 
 
